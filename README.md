@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sapper331
-- 👀 I’m interested in ...IT, informatics, currently have a PharmD. pursuing a BS in computer science.  
+- 👀 I’m interested in ...IT, informatics, have a PharmD., currently pursuing a BS in computer science, was a network admin for Travelocity many years ago. 
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...entry level projects.
 - 📫 How to reach me ... danwithaplan77@gmail.com
